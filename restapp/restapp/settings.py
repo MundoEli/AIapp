@@ -132,4 +132,4 @@ REST_FRAMEWORK = {
     ]
 }
 
-AUTH_USER_MODELS = 'authapp.CustomUser'
+AUTH_USER_MODEL = 'authapp.CustomUser'

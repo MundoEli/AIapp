@@ -1,3 +1,0 @@
-python 3.12
-django #Any version
-django-rest-framework #Any version
