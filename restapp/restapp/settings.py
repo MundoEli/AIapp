@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'authapp',
     'rest_framework',
     'rest_framework_simplejwt',
+    'text_api',
 ]
 
 MIDDLEWARE = [
